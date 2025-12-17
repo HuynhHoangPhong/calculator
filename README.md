@@ -1,4 +1,3 @@
 #Calculator 
 
-##Demo 
-![Calculator Demo](calculator.png)
+###(calculator.png)
